@@ -1,4 +1,4 @@
-alert("hello")
+
 document.getElementById("form").addEventListener("submit", submitForm);
 
 function submitForm(event) {
