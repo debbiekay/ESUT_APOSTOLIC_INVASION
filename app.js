@@ -18,7 +18,7 @@ function submitForm(event) {
   )
   .then(res => {
     if (res.ok) {
-      alert("Hello, you've successfully registered for INTERNATIONAL KINGDOM CONFERNCE, God bless you and see you there!!");
+      alert("Hello, you've successfully registered for THE APOSTOLIC INVASION, God bless you and see you there!!");
     } else {
       // Handle error if needed
     }
