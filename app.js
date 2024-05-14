@@ -10,7 +10,7 @@ function submitForm(event) {
   });
 
   fetch(
-    "https://script.google.com/macros/s/AKfycbznY3_NsWYTK-xVoEZFgkbd7hoIuEreKL_uWBhaBTVsP-4P8F0S4MlTtKqpclLgGo7D/exec",
+    "https://script.google.com/macros/s/AKfycbyqfimcCEhW9OAh6DV-euY_k1OVsdAQ-yXeggQhhjwaG_xVPWVW_T0LG7dQSCUX2cNz/exec",
     {
       method: "POST",
       body: JSON.stringify(formObject),
